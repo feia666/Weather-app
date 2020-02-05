@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+html{
+  font-size: 12px;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding:0.3rem;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+
+
