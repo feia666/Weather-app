@@ -1,11 +1,18 @@
+  
+@import '~antd/dist/antd.css';
+
+
 .App {
   text-align: center;
+  background-color:  #282c34;
+  color:white;
 }
-html{
-  font-size: 12px;
+html,body,#root{
+  height:100%;
+  position: fixed;
+  background-color: #282c34;
+  top: 0;left: 0;bottom: 0;right: 0;
 }
-
-
 
 .App-header {
   background-color: #282c34;
@@ -19,7 +26,11 @@ html{
   color: white;
 }
 
+.input{
+height: 60%;
+display: flex;
 
+}
 
 
 
